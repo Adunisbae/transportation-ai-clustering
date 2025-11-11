@@ -1,0 +1,5 @@
+,Lat,Lat,Lat,Lat,Lat,Lat,Lat,Lat,Lon,Lon,Lon,Lon,Lon,Lon,Lon,Lon,hour,hour,hour,hour,hour,hour,hour,hour,day_of_week,day_of_week,day_of_week,day_of_week,day_of_week,day_of_week,day_of_week,day_of_week
+,count,mean,std,min,25%,50%,75%,max,count,mean,std,min,25%,50%,75%,max,count,mean,std,min,25%,50%,75%,max,count,mean,std,min,25%,50%,75%,max
+month,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+April,564516.0,40.74,0.04,40.07,40.72,40.74,40.76,42.12,564516.0,-73.98,0.05,-74.77,-74.0,-73.98,-73.97,-72.07,564516.0,14.47,5.87,0.0,10.0,16.0,19.0,23.0,564516.0,2.87,1.82,0.0,1.0,3.0,4.0,6.0
+May,652435.0,40.74,0.04,40.11,40.72,40.74,40.76,41.32,652435.0,-73.98,0.05,-74.93,-74.0,-73.98,-73.97,-72.18,652435.0,14.48,5.83,0.0,10.0,16.0,19.0,23.0,652435.0,3.11,1.76,0.0,2.0,3.0,4.0,6.0
