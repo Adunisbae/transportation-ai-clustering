@@ -165,7 +165,7 @@ All visualizations saved in `/visualizations` folder
 
 ---
 
-**Grade**: First Class (University of Liverpool, 2025)  
+**Grade**: First Class (Liverpool John Moores University, July 2025)  
 **Dataset**: 1.2M+ real-world transportation records  
 **Duration**: 4-week project  
-**Contact**: [Your Email] | [Your LinkedIn]
+**Contact**: [olufadekemioguntuga@gmail.com] | [linkedin.com/in/adun-oguntuga-779b00254]
